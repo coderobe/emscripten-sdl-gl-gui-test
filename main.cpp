@@ -1,3 +1,6 @@
+// This work is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE v3
+// Copyright (c) 2017 Robin Broda
+
 #include <cstdarg>
 #include <cstdio>
 #include <emscripten.h>

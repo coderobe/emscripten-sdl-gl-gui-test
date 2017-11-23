@@ -12,3 +12,9 @@ Just `make` it.
 
 ## How to run:
 Open `out/index.html` in a modern browser
+
+## Licensing:
+This work, authored by Robin Broda in 2017, is licensed under
+the GNU AFFERO GENERAL PUBLIC LICENSE, version 3. 
+
+Libraries & assets used are subject to their own licensing terms.

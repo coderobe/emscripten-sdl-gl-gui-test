@@ -1,6 +1,8 @@
 // glw_imgui
 // Copyright (C) 2016 Iakov Sumygin - BSD license
 
+// Port to emscripten/webgl (C) 2017 Robin Broda
+
 #ifndef _RENDERER_SDL_H_
 #define _RENDERER_SDL_H_
 

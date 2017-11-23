@@ -1,6 +1,8 @@
 // glw_imgui
 // Copyright (C) 2016 Iakov Sumygin - BSD license
 
+// Port to emscripten/webgl (C) 2017 Robin Broda
+
 #include "platform_sdl.h"
 
 #include <GL/glew.h>
