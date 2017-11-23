@@ -30,7 +30,7 @@ $(OUTDIR):
 $(OUTDIR)/index.html:
 	cp index.html $(OUTDIR)
 
-$(OUTDIR)/$(OUT): glw_imgui/out/libglw_imgui.a
+$(OUTDIR)/$(OUT): $(FILES) glw_imgui/out/libglw_imgui.a
 	$(CXX) $(INCLUDE) $(FLAGS) $(FILES) $(LIBS) -o $(OUTDIR)/$(OUT) $(EMBED)
 
 clean:
